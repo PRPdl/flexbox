@@ -204,6 +204,14 @@ form {
 
 }
 
+.form-control {
+    text-align: end;
+}
+
+.form-control>button {
+    margin-right: 4em;
+}
+
 
 input {
     flex: 1;
